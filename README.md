@@ -4,7 +4,7 @@
 
 * [线性回归](https://jesseyule.github.io/ai/linearRegression/content.html)
 
-* [非参数回归之核回归](https://jesseyule.github.io/ai/kernelRegression/content.html)([localLinearKernelEstimator与nadarayaWatsonKernelEstimator](https://github.com/JesseYule/MachineLearningModels/tree/master/localLinearKernelEstimator)）
+* [非参数回归之核回归(localLinearKernelEstimator与nadarayaWatsonKernelEstimator)](https://jesseyule.github.io/ai/kernelRegression/content.html)
 
 - [logistic回归](<https://jesseyule.github.io/ai/logisticRegression/content.html>)
 
