@@ -6,5 +6,7 @@
 
 * [非参数回归之核回归(localLinearKernelEstimator与nadarayaWatsonKernelEstimator)](https://jesseyule.github.io/ai/kernelRegression/content.html)
 
-- [logistic回归](<https://jesseyule.github.io/ai/logisticRegression/content.html>)
+- [logistic回归](https://jesseyule.github.io/ai/logisticRegression/content.html)
+
+- [KNN](https://jesseyule.github.io/ai/knn/content.html)
 

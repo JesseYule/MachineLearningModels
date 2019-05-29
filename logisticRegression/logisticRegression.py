@@ -3,7 +3,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 
 
-# 构建二维特征，标签为0，1（rank）
+# 生成训练样本，特征为xy坐标，标签为0，1（rank）
 def loaddata():
     # 生成第一类别数据，主要分布在x轴的[0，1]区间内
     r1x = np.random.uniform(0, 1, 50)
