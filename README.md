@@ -22,7 +22,7 @@
 
 首先我推荐学习谷歌的一个速成课程，对机器学习有一个简单基础的认识：
 
-- [机器学期速成课程](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
+- [机器学习速成课程](https://developers.google.com/machine-learning/crash-course/?hl=zh-cn)
 
 另一方面，我自己也写了一篇快速入门：
 
