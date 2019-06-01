@@ -46,8 +46,11 @@
 - [LOESS](https://jesseyule.github.io/ai/loess/content.html)
 - [核回归](https://jesseyule.github.io/ai/kernelRegression/content.html)
 - [回归样条](https://jesseyule.github.io/ai/regressionSplines/content.html)
+- [分位数回归](https://jesseyule.github.io/ai/quantileRegression/content.html)
 
 简单介绍一下这些模型，线性回归主要用于线性分布的数据，可是现实中很少会有线性分布的数据，多项式回归就是为了解决非线性问题。可是多项式回归容易过拟合，针对训练数据的整体进行拟合也会导致一个训练数据的改变会影响整个模型，所以有了LOESS、核回归、回归样条这些先针对局部数据进行拟合，再把局部拟合结果组合成整体的算法。
+
+回归分析的本质就是一个条件期望函数，有时候我们不仅仅希望分析响应变量的条件期望，还希望了解它的分布状况，所以就需要分位数回归，分位数回归不是单独一种回归模型，它是一种思想，只需要把损失函数的最小二乘法改成加权最小二乘法，就可以应用到线性回归、多项式回归等模型里面。
 
 ### 分类模型
 
