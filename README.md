@@ -58,3 +58,10 @@
 - [logistic回归](https://jesseyule.github.io/ai/logisticRegression/content.html)
 
 KNN是最容易理解的分类模型，甚至也是最容易的机器学习模型，可以作为机器学习的开端。logistic回归其实就是线性模型应用到分类问题的一个例子。
+
+### 数据生成
+
+最后还想介绍一下数据生成的原理，因为计算机一般来说只能生成均匀分布的随机数，为了生成服从特定分布的数据我们就了解概率转换和蒙特卡罗方法。
+
+- [概率分布的转换](https://jesseyule.github.io/math/transformation/content.html)
+- [蒙特卡罗方法](https://jesseyule.github.io/ai/monteCarloMethod/content.html)
